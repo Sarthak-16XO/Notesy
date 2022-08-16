@@ -6,10 +6,9 @@ var year = date.getFullYear();
 function Footer() {
     return (
         <footer>
-            <p>Copyright @ Keeper, {year}</p>
+            <p>Copyright @ Notesy, {year}</p>
         </footer>
     );
-
 }
 
 export default Footer;
